@@ -16,6 +16,17 @@ export default function Home() {
         <p className='text-center font-mono text-xl font-semibold'>
           Until then, Keep an eye out on us and you know we’ll do the same !!
         </p>
+        <p className='text-center font-mono text-xl font-semibold'>
+          Got questions?? Write us at{' '}
+          <span>
+            <a
+              href='mailto:recruitments.thinkquestors.com'
+              className='underline'
+            >
+              recruitments.thinkquestors.com
+            </a>
+          </span>
+        </p>
       </div>
     </main>
   );
