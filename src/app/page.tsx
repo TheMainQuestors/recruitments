@@ -20,7 +20,7 @@ export default function Home() {
           Got questions?? Write us at{' '}
           <span>
             <a
-              href='mailto:recruitments.thinkquestors.com'
+              href='mailto:recruitments@thinkquestors.com'
               className='underline'
             >
               recruitments@thinkquestors.com
