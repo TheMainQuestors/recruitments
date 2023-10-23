@@ -23,7 +23,7 @@ export default function Home() {
               href='mailto:recruitments.thinkquestors.com'
               className='underline'
             >
-              recruitments.thinkquestors.com
+              recruitments@thinkquestors.com
             </a>
           </span>
         </p>
